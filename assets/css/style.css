@@ -1,0 +1,123 @@
+* {
+    margin: 0px;
+}
+body{
+    background-color: rgb(213, 209, 209);
+    font-family: "Faculty Glyphic", serif;
+    font-weight: 400;
+    font-style: normal;;
+}
+
+.Desc {
+    background-color: #1CD1B0;
+    height: 40px;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.titulo {
+    position: sticky;
+    top: 0px;
+    background-color: #00669F;
+    height: 90px;
+    padding-top: 40px;
+    margin-bottom: 40px;
+    padding-left: 40px;
+    z-index: 1;
+    font-size: 40px;
+    color: white;
+}
+    
+
+.container {
+    height: 500px;
+}
+
+#spiderman {
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    color: rgb(175, 27, 27);
+    top: 92px
+}
+
+#capitan {
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    color: rgb(6, 112, 112);
+    top: 120px;
+    margin-bottom: 20px;
+}
+
+#venom {
+    text-align: center;
+    font-size: 22px;
+    position: relative;
+    color: rgb(0, 0, 0);
+    top: 92px;
+}
+
+.cajitas {
+    margin-left: 120px;
+    width: 300px;
+    display: inline-block;
+}
+
+.circulo {
+    width: 120px;
+    height: 120px;
+    border-radius: 100%;
+    position: relative;
+    bottom: 450px;
+    left: 90px;
+}
+
+.fotos {
+    width: 300px;
+    height: 200px;
+    position: relative;
+    border-radius: 20px 20px 0px 0px;
+}
+
+
+
+.corazon{
+    position: relative;
+    bottom: 670px;
+    left: 10px;
+}
+
+
+.txt {
+    background-color: #ffffff;
+    padding-top: 100px;
+    padding-bottom: 130px;
+    text-align: center;
+}
+
+.btn-ver-mas {
+    background-color: #00669F;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 85px;
+    left: 105px;
+    padding-top: 10px;
+    
+}
+footer {
+    background-color: #00669F;
+    padding: 20px;
+    color: white;
+}
+#fotocapi{
+    top: 90px;
+}
+#fotovenom{
+    top: 75px;
+    
+}
+#fotospider{
+    top: 55px;
+}
